@@ -13,7 +13,7 @@ using namespace std;
 
 class FindMedian
 {
-	public
+	public:
 		void insertHeap(int &);
 		double getMedian();
 	private:
