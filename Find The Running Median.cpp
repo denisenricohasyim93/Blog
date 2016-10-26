@@ -43,7 +43,7 @@ void FindMedian::insertHeap(int &x)
 
 void FindMedian::balanceHeaps()
 {
-	if (abs(max.size() - min.size() > 1)) //Heaps are not balanced
+	if (abs(max.size() - min.size()) > 1) //Heaps are not balanced
 	{
 		if (max.size() > min.size())
 		{
