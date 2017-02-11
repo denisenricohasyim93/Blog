@@ -1,3 +1,6 @@
+//Original problem: https://www.hackerrank.com/challenges/find-the-running-median
+//Explanation of the algorithm: https://hansblanco.wordpress.com/2016/06/04/solving-find-median-hackerrank-challenge/
+
 //Includes all the standard C++ libraries
 #include <bits/stdc++.h>
 
